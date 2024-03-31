@@ -240,3 +240,15 @@ header .totalQuantity{
     font-size: large;
     font-weight: bold;
 }
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
